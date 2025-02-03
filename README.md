@@ -1,17 +1,25 @@
 # Project info
+
 Platform:   Zenva
+
 Class:      Learn Rust Programming for Beginners
+
 Section:    23, Functions
 
 # Summary
+
 This discusses the basics of functions.
 
+Below is just a bunch of notes I had been taking regarding functions, based on how it was presented in the class on Zenva.
+
 # What is a function?
+
 A function is commonly seen like this: `function()`. Each program has a `main()` function.
 
 You can write, `main()`, `main function`, or `main` - they all mean the same thing.
 
 ## Why use a function?
+
 There are two primary reasons for using a `function()`.
 
 1. **Readability**: using functions helps you break programs down into "logic blocks" of sorts. It helps to make something more "digestible". If you had a program of thousands of lines, and it was not split into different functions, it would be incredibly hard to read effectively and quickly by people who are not familiar with the program.
